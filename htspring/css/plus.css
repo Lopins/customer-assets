@@ -28,7 +28,7 @@ video{object-fit:cover;width:100vw;height:550px;position:relative;bottom:0;left:
 .videoControl:hover{border-bottom:1px solid transparent;text-decoration:none}
 .videoPlay{display:none}
 .industryFluid{background-color:#ebebeb;padding-bottom:30px}
-.productHomeTop{margin-top:100px;z-index:5}
+.productHomeTop{margin-top:-100px;z-index:5}
 .productHomeLeft{background:#333;color:#fff;position:relative;margin-bottom:-20px;padding-left:40px;height:290px}
 .productHomeLeft:after{content:"";position:absolute;width:0;height:0;border-style:solid;top:0;border-width:290px 100px 0 0;border-color:#333 transparent transparent;right:-100px;z-index:1}
 .productHomeLeft h2{color:#fff;font-size:26px;font-weight:700;position:relative;margin-bottom:10px;padding-bottom:15px;margin-top:10px}
