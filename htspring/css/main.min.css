@@ -230,7 +230,7 @@ video{object-fit:cover;width:100vw;height:550px;position:relative;bottom:0;left:
 .video-container{position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden}
 .video-container iframe,.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:100%}
 @media screen and (max-width:991px){.videoLeftWrap{max-width:100%;padding:20px}.videoLeft h2{margin-top:0}}
-#ctafullwidth:after{background-image:url('../images/bluerightlarge-min.jpg');content:"";position:absolute;z-index:1;right:0;top:65px;display:inline-block;width:250px;height:20px;background-size:cover}
+#ctafullwidth:after{/*background-image:url('../images/bluerightlarge-min.jpg');*/content:"";position:absolute;z-index:1;right:0;top:65px;display:inline-block;width:250px;height:20px;background-size:cover}
 #videoGallery{background:#ebebeb;padding-top:20px;padding-bottom:20px}
 #videoGallery .grid{background:#fff;margin-left:0;margin-right:0;padding:40px}
 .videoIntro h2{color:#333;position:relative;margin-bottom:10px;padding-bottom:10px;font-size:28px;margin-top:0}
